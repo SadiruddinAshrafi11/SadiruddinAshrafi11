@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Self**
 
-- 🌱 I’m currently learning **Excel, SQL, Python, C, Power Bi, Power Query, VBA A.I,Etc**
+- 🌱 I’m currently learning **Excel, SQL, Python, C, Power Bi, Power Query, VBA, A.I,Etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SadiruddinAshrafi11?tab=repositories](https://github.com/SadiruddinAshrafi11?tab=repositories)
 
